@@ -580,7 +580,7 @@ function GallerySection() {
         <GalleryStrip items={GALLERY_CERTS} title="Certificates" />
         <GalleryStrip items={GALLERY_PROJECTS} title="Project Showcase" />
         <p style={{ fontFamily: "var(--font-mono)", fontSize: 10, color: "var(--text-subtle)" }}>
-          — add images to /public/gallery/ · click to enlarge
+          · click to enlarge
         </p>
       </div>
     </div>
