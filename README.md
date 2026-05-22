@@ -1,4 +1,4 @@
-# madb — Mary Adrianne D. Bisoy Portfolio
+# MADB Portfolio Version 2
 
 Personal portfolio of Mary Adrianne D. Bisoy (YxnZx / madb), built with Next.js, Tailwind CSS, and Lucide React icons.
 
